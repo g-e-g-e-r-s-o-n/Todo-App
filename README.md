@@ -75,7 +75,7 @@ https://github.com/g-e-g-e-r-s-o-n/agronnect_project_backend
     Now you can download and install composer and run laravel project.
     
 
-* #### For linux just install web server, php, mariaDB, composer, then verify these instlation and you can setup an run laravel project.
+* #### For linux just install web server, php, mariaDB, composer, then verify these installation and you can setup and run laravel project.
 
 
 #### Now just download/clone backand project and follow next steps.
