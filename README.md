@@ -100,6 +100,10 @@ https://github.com/g-e-g-e-r-s-o-n/agronnect_project_backend
     composer require php-open-source-saver/jwt-auth
     php artisan jwt:secret
     ```
+* #### Add jwt_ttl parameter to ```.env``` file.
+  - ```env
+    JWT_TTL=60
+    ```
 * #### Now run project back-end which provides us a Restful API service with jwt authentication. Run following command in terminal.
   - ```console
     php artisan serve
