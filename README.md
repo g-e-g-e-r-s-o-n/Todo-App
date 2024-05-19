@@ -3,7 +3,7 @@
 </div>
 
 # 📖 About project :
-This is doto app - simple online task management application.
+This is Todo app - simple online task management application.
 
 # :hammer_and_wrench: Languages and Tools :
 <div>
