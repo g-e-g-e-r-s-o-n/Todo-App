@@ -47,18 +47,18 @@ https://github.com/g-e-g-e-r-s-o-n/agronnect_project_backend
     
     #### Step 7
     I also copied other folders and files from php_backup to the php folder which were now missing in the downloaded php 8.3.7, which are:
-    cfg
-    CompatInfo
-    data
-    docs
-    man
-    pear
-    scripts
-    tests
-    tmp
-    www
-    CompatInfo.php
-    webdriver-test-example.php
+     - cfg
+     - CompatInfo
+     - data
+     - docs
+     - man
+     - pear
+     - scripts
+     - tests
+     - tmp
+     - www
+     - CompatInfo.php
+     - webdriver-test-example.php
     
     #### Step 8
     Now we need php.ini file!
