@@ -64,7 +64,7 @@ https://github.com/g-e-g-e-r-s-o-n/agronnect_project_backend
     Now we need php.ini file!
     Duplicate "php.ini-development" in php root folder and rename it "php.ini"
     
-    Personally, I used the comparison tool to make the PHP configuration the same as XAMPP, so that I could compare the new php.ini file with the old one in php_backup faster and better and make sure you enabled desire php extension such as mysqli, gd, pdo_mysql, pdo_sqlite ...
+    Personally, I used the comparison tool to make the PHP configuration the same as XAMPP, so that I could compare the new php.ini file with the old one in php_backup faster and better and make sure you enabled desire php extension such as mysqli, gd, pdo_mysql, pdo_sqlite ... Also you can ```php.ini``` file which is uploaded in this repository.
     
     #### Step 9
     Now you can start the Apache and MySQL services from the XAMPP Control Panel. 
@@ -73,6 +73,9 @@ https://github.com/g-e-g-e-r-s-o-n/agronnect_project_backend
 
     #### step 10
     Now you can download and install composer and run laravel project.
+
+    If mysql shutdowns unexpectedly in xampp you can use following link:
+     - https://stackoverflow.com/questions/18022809/how-can-i-solve-error-mysql-shutdown-unexpectedly
     
 
 * #### For linux just install web server, php, mariaDB, composer, then verify these installation and you can setup and run laravel project.
