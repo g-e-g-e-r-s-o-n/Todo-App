@@ -33,17 +33,17 @@ https://github.com/g-e-g-e-r-s-o-n/agronnect_project_backend
     Go to the XAMPP installation directory and navigate to the php folder. Rename the existing php folder to something like php_backup.
     
     #### Step 4
-    Visit the official PHP website (https://windows.php.net/download#php-8.3) and download the Windows version of PHP 8.3.4 (Current).
+    Visit the official PHP website (https://windows.php.net/download#php-8.3) and download the Windows version of PHP 8.3.7 (Current).
     
     Xampp using Thread Safe version so we have to download VS16 x64 Thread Safe
     This is direct link to download:
-    https://windows.php.net/downloads/releases/php-8.3.4-Win32-vs16-x64.zip
+    https://windows.php.net/downloads/releases/php-8.3.7-Win32-vs16-x64.zip
     
     #### Step 5
-    Then, copy the contents of the PHP 8.3.4 folder that you downloaded into the XAMPP php folder.
+    Then, copy the contents of the PHP 8.3.7 folder that you downloaded into the XAMPP php folder.
     
     #### Step 6
-    Create new folder inside php folder and name it "windowsXamppPhp" for example you have c:\xampp\php\windowsXamppPhp path and copy again the contents of the PHP 8.3.4 into the windowsXamppPhp folder too.
+    Create new folder inside php folder and name it "windowsXamppPhp" for example you have c:\xampp\php\windowsXamppPhp path and copy again the contents of the PHP 8.3.7 into the windowsXamppPhp folder too.
     
     #### Step 7
     I also copied other folders and files from php_backup to the php folder which were now missing in the downloaded php 8.3.7, which are:
