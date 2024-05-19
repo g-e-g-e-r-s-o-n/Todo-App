@@ -21,7 +21,7 @@ Project is written on laravel(back-end) and vue(front-end) in separate repositor
 https://github.com/g-e-g-e-r-s-o-n/agronnect_project_backend
 <br>
 (Written on Laravel v11.7.0 PHP v8.3.7. Both of them are latest versions.)
-* #### For windows you need xampp or other webserver software. There is easy way to use xampp. Xampp doesn't support PHP 8.3.7 version. But I write it my own and supports this verion.
+* #### For windows you need xampp or other webserver software. There is easy way to use xampp. Xampp doesn't support PHP 8.3.7 version. But I write it my own and supports this verion, so follow these steps.
 
   - #### Step 1
     First of all install xampp latest version. Before making any changes, it's always a good idea to backup your important files and databases to avoid data loss.
