@@ -111,4 +111,33 @@ https://github.com/g-e-g-e-r-s-o-n/agronnect_project_backend
 
 ### Front-end
 https://github.com/g-e-g-e-r-s-o-n/agronnect_project_frontend
+(written on vue3, node version v22.1.0).
+#### See following steps on this link. Download/clone repository and install packages and run.
+
+# Project visualisation and images :
+
+<div align="center">
+  <img src="https://github.com/g-e-g-e-r-s-o-n/Todo-App/blob/main/Screenshot%201.png" width="900" height="450"/>
+</div>
+<div align="center">
+  <img src="https://github.com/g-e-g-e-r-s-o-n/Todo-App/blob/main/Screenshot%202.png" width="900" height="450"/>
+</div>
+<div align="center">
+  <img src="https://github.com/g-e-g-e-r-s-o-n/Todo-App/blob/main/Screenshot%203.png" width="900" height="450"/>
+</div>
+<div align="center">
+  <img src="https://github.com/g-e-g-e-r-s-o-n/Todo-App/blob/main/Screenshot%204.png" width="900" height="450"/>
+</div>
+<div align="center">
+  <img src="https://github.com/g-e-g-e-r-s-o-n/Todo-App/blob/main/Screenshot%205.png" width="900" height="450"/>
+</div>
+
+
+
+
+
+
+
+
+
 
